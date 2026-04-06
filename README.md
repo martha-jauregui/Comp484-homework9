@@ -12,13 +12,4 @@
 
 
 4. A short reflection of **4-5 sentences** that answers:
-**What part was easiest?**
-   The easiest part was the basic artithmetic for the price calculator, adding the tax was very straightfoward.
-**What part was hardest?**
-     The hardest part was correctly displaying the Date object, to ensure that the month/day was always displayed in two digits.
-**What did you learn about the `Date` object?**
-   I learned that the Date object's month is zero-indexed, which required adding one to the get the current month accurately.
-**What did you learn about the `Number` object?**
-   For the number object, i learned how to use Number.isNan() to validate if a string can be used for math calculations. 
-**What did you learn about displaying results in the browser?**
-   I learned that displaying results in the browser requires a clear connection between the JavaScript getElementById method and the HTML id attributes. 
+   The easiest part was the basic artithmetic for the price calculator, adding the tax was very straightfoward. The hardest part was correctly displaying the Date object, to ensure that the month/day was always displayed in two digits. I learned that the Date object's month is zero-indexed, which required adding one to the get the current month accurately. For the number object, i learned how to use Number.isNan() to validate if a string can be used for math calculations. I learned that displaying results in the browser requires a clear connection between the JavaScript getElementById method and the HTML id attributes. 
