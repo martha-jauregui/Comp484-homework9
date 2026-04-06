@@ -2,6 +2,7 @@
 - Date object: newDate(), getMonth(), getDate(), getFullYear()
 - Number Object: Number(), Number.isNaN(), Number.isInteger()
 - Formatting methods: toFixed(2), toString(), padStart()
+- DOM Methods:document.getElementById(), innerHTML, textContent, document.createElement(), appendChild()
   
 3. Your **GitHub Pages link**
    
