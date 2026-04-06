@@ -4,14 +4,14 @@
 - Formatting methods: toFixed(2), toString(), padStart()
 - DOM Methods:document.getElementById(), innerHTML, textContent, document.createElement(), appendChild()
   
-3. Your **GitHub Pages link**
+2. Your **GitHub Pages link**
    https://martha-jauregui.github.io/Comp484-homework9/
    
-5. Path to a screenshot file of the finished webpage
-6. <img width="742" height="825" alt="Screenshot 2026-04-06 at 1 17 30 PM" src="https://github.com/user-attachments/assets/6f5b82b5-f440-4288-bbbb-c6c0e934f338" />
+3. Path to a screenshot file of the finished webpage
+ <img width="742" height="825" alt="Screenshot 2026-04-06 at 1 17 30 PM" src="https://github.com/user-attachments/assets/6f5b82b5-f440-4288-bbbb-c6c0e934f338" />
 
-7. 
-8. A short reflection of **4-5 sentences** that answers:
+
+4. A short reflection of **4-5 sentences** that answers:
 **What part was easiest?**
    The easiest part was the basic artithmetic for the price calculator, adding the tax was very straightfoward.
 **What part was hardest?**
