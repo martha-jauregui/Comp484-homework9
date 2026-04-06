@@ -5,6 +5,7 @@
 - DOM Methods:document.getElementById(), innerHTML, textContent, document.createElement(), appendChild()
   
 3. Your **GitHub Pages link**
+   https://martha-jauregui.github.io/Comp484-homework9/
    
 5. Path to a screenshot file of the finished webpage
 6. A short reflection of **4-5 sentences** that answers:
